@@ -1,7 +1,7 @@
 SoccerDisc — Privacy Policy
 Last updated: October 17, 2026
 
-This Privacy Policy explains how the mobile game SoccerDisc (the “App”), published on Google Play by [DEVELOPER NAME] (“we”, “us”), handles information when you use it.
+This Privacy Policy explains how the mobile game SoccerDisc (the “App”), published on Google Play by Bruno Bagalà. (“we”, “us”), handles information when you use it.
 
 In short: the App has no user accounts and we do not ask for your name, email, phone number or location. Your game progress stays on your device. Some data is processed by Google services that the App uses for advertising, purchases and anonymous usage statistics, as described below.
 
